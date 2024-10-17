@@ -16,4 +16,4 @@
 
 ## Contact:
 - [![GitHub](https://img.shields.io/badge/GitHub-jiteshrajoriyaa-blue)](https://github.com/jiteshrajoriyaa)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-jitesh-rajoriya-blue)](https://linkedin.com/in/jitesh-rajoriya)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-jiteshrajoriya-blue)](https://linkedin.com/in/jitesh-rajoriya)
