@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm [Jitesh Rajoriya]
 
-<!--
-**jiteshrajoriyaa/jiteshrajoriyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- 🔭 I’m currently working on a simple SAAS project
+- 🌱 I’m currently learning NextJS and DevOps
+- 💬 Ask me about [Web Development]
+- ⚡ Life keywords: [Consistancy, Responsibility, OBSESSION, Character, Inflection point]
 
-Here are some ideas to get you started:
+## My Skills:
+- **Languages**: [TypeScript, CPP etc.]
+- **Frameworks**: [React, Node.js, NextJSetc.]
+- **Tools**: [Git, Docker, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects:
+- [Medium Blog Website](https://medium-blog-fcxk15vgn-jitesh-rajoriyas-projects.vercel.app/signup) - Description
+
+## Contact:
+- [![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue)](https://github.com/jiteshrajoriyaa)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://linkedin.com/in/jitesh-rajoriya)
