@@ -15,5 +15,5 @@
 - [Medium Blog Website](https://medium-blog-fcxk15vgn-jitesh-rajoriyas-projects.vercel.app/signup) - Description
 
 ## Contact:
-- [![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue)](https://github.com/jiteshrajoriyaa)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://linkedin.com/in/jitesh-rajoriya)
+- [![GitHub](https://img.shields.io/badge/GitHub-jiteshrajoriyaa-blue)](https://github.com/jiteshrajoriyaa)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-jitesh-rajoriya-blue)](https://linkedin.com/in/jitesh-rajoriya)
