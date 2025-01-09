@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Jitesh Rajoriya]
+# Hi there 👋, I'm Jitesh Rajoriya
 
 ## About Me:
 - 🔭 I’m currently working on a simple SAAS project
