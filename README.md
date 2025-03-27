@@ -12,7 +12,7 @@
 - **Tools**: Git, Docker, etc.
 
 ## Projects:
-- Medium Blog Website(https://medium-blog-fcxk15vgn-jitesh-rajoriyas-projects.vercel.app/signup)
+- [Medium Blog Website](https://medium-blog-fcxk15vgn-jitesh-rajoriyas-projects.vercel.app/signup)
 
 ## Contact:
 - [![Email](https://img.shields.io/badge/Email-ijiteshrajoriya@gmail.com-blue)](mailto:ijiteshrajoriya@gmail.com)
