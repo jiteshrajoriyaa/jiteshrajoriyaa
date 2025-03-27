@@ -3,16 +3,16 @@
 ## About Me:
 - 🔭 I’m currently working on a simple SAAS project
 - 🌱 I’m currently learning NextJS and DevOps
-- 💬 Ask me about [Web Development]
-- ⚡ Life keywords: [Consistancy, Responsibility, OBSESSION, Character, Inflection point]
+- 💬 Ask me about Web Development
+- ⚡ Life keywords: Consistancy, Responsibility, OBSESSION, Character, Inflection point
 
 ## My Skills:
-- **Languages**: [TypeScript, CPP etc.]
-- **Frameworks**: [React, Node.js, NextJSetc.]
-- **Tools**: [Git, Docker, etc.]
+- **Languages**: TypeScript, CPP etc.
+- **Frameworks**: React, Node.js, NextJSetc.
+- **Tools**: Git, Docker, etc.
 
 ## Projects:
-- [Medium Blog Website](https://medium-blog-fcxk15vgn-jitesh-rajoriyas-projects.vercel.app/signup) - Description
+- Medium Blog Website(https://medium-blog-fcxk15vgn-jitesh-rajoriyas-projects.vercel.app/signup)
 
 ## Contact:
 - [![Email](https://img.shields.io/badge/Email-ijiteshrajoriya@gmail.com-blue)](mailto:ijiteshrajoriya@gmail.com)
